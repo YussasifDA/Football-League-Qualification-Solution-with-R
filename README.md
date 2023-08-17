@@ -33,7 +33,7 @@ The Corper's Lodge Football League Qualification Solution leverages the statisti
 
 ## Usage
 
-1. Open the ![`qualification.R`](/) file.
+1. Open the ![`qualification.R`](/qualification.R) file.
 2. Adjust the point values for goals scored, goals conceded, yellow cards, and red cards according to your league's criteria.
 3. Populate the list of teams with relevant data.
 4. Run the script to generate the qualification results.
